@@ -1,1 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+body{ background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCaYOl_uP51kGxa02-8uuVA1VUIrJdeM4bOw&usqp=CAU');
+    background-size:100% 100%;
+    background-attachment:fixed;
+}
